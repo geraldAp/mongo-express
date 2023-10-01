@@ -1,0 +1,24 @@
+20230924	18:41:10	7e8a9fd4-f0ba-4c0c-a942-b9f03b0afda6	Error: Not allowed by Cors
+20230924	20:06:26	a7cf333a-7ebd-46bc-93a0-5942aaabc023	ReferenceError: sendFile is not defined
+20230925	11:58:42	3eaec3a5-f558-43ac-9bb5-dea837feaa26	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	11:59:05	9cfa7457-4761-48c2-8082-0621a30cb74d	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	11:59:06	54973a0c-cbf8-4290-92fd-1432c9bda4a3	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	11:59:17	7dac5b9c-ccbc-4567-b4c8-d442d993403d	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	11:59:50	100371d0-fb60-488d-921a-40e33bb5110c	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:00:12	c5629d9e-043f-44a2-9ef8-95d47a4e7495	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:00:51	d1ce1318-f7c3-4fb6-8f17-9bf5e7178ec6	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:03:59	79bb488f-6852-4574-97fa-89f0c9471c6a	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:29:01	137f9224-6c8d-47e7-850d-8173be66595a	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:42:03	d4c93f97-00fd-44ce-93c4-b36f4b674c19	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:43:44	3d209349-cc84-46bd-9254-f81fb9012849	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:46:40	528bee46-0148-44d7-8030-f83053016fd7	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	12:47:29	51e3ad98-9750-44e6-96ef-1b222e5ef2fd	Error: ENOENT: no such file or directory, stat 'C:\Users\amank\OneDrive\Desktop\personal-build-up\nodejs_web_server\routes\views\index.html'
+20230925	15:16:47	1ffdc10b-0b0b-4525-a28c-cf54c7829e65	SyntaxError: Expected double-quoted property name in JSON at position 36
+20230925	15:17:06	6580053a-4dff-4cdb-80a6-a0d827217276	SyntaxError: Expected double-quoted property name in JSON at position 38
+20230925	20:26:13	ae262bea-ffb1-4220-8ffc-09d8234c8580	ReferenceError: indexOf is not defined
+20230929	10:03:47	ecc6534f-8294-4f46-8227-bf71bd78814a	TypeError: Cannot read properties of undefined (reading 'roles')
+20230929	10:04:27	501fd455-58fa-4f56-941b-243e2b1d6ad5	TypeError: Cannot read properties of undefined (reading 'roles')
+20230929	10:04:28	e8a2b3d6-a2dd-4a0e-8d7b-d92ef1d3dd62	TypeError: Cannot read properties of undefined (reading 'roles')
+20230929	10:06:57	ee19edf7-d824-456f-9add-30eab5ea2f80	TypeError: Cannot read properties of undefined (reading 'roles')
+20230929	10:15:11	16ba49bd-1e9d-47ab-b604-4831ec5d4808	TypeError: Cannot read properties of undefined (reading 'roles')
+20230929	13:26:29	72b46dc2-381f-4ba7-a605-8b2b36ec1110	Error: Cannot set headers after they are sent to the client
